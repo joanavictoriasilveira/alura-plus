@@ -12,5 +12,5 @@ Projeto realizado no curso "HTML e CSS: praticando HTML/CSS" da Alura,com propos
 - ``CSS``
 
 ## 📁 Acesso ao projeto
-Você pode acessar o site do projeto clicando [aqui] (https://alura-plus-ochre-phi.vercel.app)
+Você pode acessar o site do projeto clicando [aqui](https://alura-plus-ochre-phi.vercel.app)
 
