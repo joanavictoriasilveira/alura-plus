@@ -1,5 +1,5 @@
 <h1 align="center"> Alura-Plus </h1>
-![Alura+ e AluraLingua](https://github.com/joanavictoriasilveira/alura-plus/assets/146020975/eb4a6b0a-efd0-4930-a2dc-73978e63f473)
+
 
 #Resumo do projeto
 Projeto realizado no curso "HTML e CSS: praticando HTML/CSS" da Alura,com proposito de criar a Alura-plus, que é a junção da Alura+ e Alura Línguas.
